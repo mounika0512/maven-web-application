@@ -93,7 +93,7 @@
 		
 	</dependencies>
 	
-	<!-- <distributionManagement>
+	 <distributionManagement>
 	
 	    <repository>
 	      <id>nexus</id>
@@ -107,7 +107,7 @@
 	      <url>http://18.220.155.235:8081/repository/nexus-snap/</url>
 	    </snapshotRepository>
 	    
-	</distributionManagement> -->
+	</distributionManagement> 
 	
 	<build>
 		<finalName>maven-web-application</finalName>
